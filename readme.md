@@ -1,6 +1,6 @@
 # Facial Emotion Recognition Project
 
-This project aims to recognize facial emotions using various convolutional neural network (CNN) architectures, including a normal CNN network, ResNet, and MobileNet. The best results were achieved using MobileNet, with an accuracy of 67.54%.
+This project aims to recognize facial emotions using various convolutional neural network (CNN) architectures, including a normal CNN network, ResNet, and MobileNet. The best results were achieved using MobileNet, with an accuracy of 67.54%. (CNN -> acc=53.16%, resnet -> acc=65.85%)
 
 ## Introduction
 
