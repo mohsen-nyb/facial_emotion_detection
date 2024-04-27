@@ -2,6 +2,15 @@
 
 This project aims to recognize facial emotions using various convolutional neural network (CNN) architectures, including a normal CNN network, ResNet, and MobileNet. The best results were achieved using MobileNet, with an accuracy of 67.54%. (CNN -> acc=53.16%, resnet -> acc=65.85%)
 
+## Dataset
+
+The facial expression recognition dataset used in this project can be found on Kaggle. You can access the dataset using the following link:
+
+[Kaggle Dataset: Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
+
+This dataset contains images of facial expressions categorized into different emotion classes, making it suitable for training and evaluating facial emotion recognition models.
+
+
 ## Introduction
 
 Facial emotion recognition is a task in computer vision that involves detecting and categorizing facial expressions into different emotional states, such as happiness, sadness, anger, etc. This project provides a solution for facial emotion recognition using deep learning techniques.
@@ -40,7 +49,7 @@ You can install these dependencies using pip:
 
 ## Directory Structure
 
-- **dataset/**: Contains the original dataset provided with the project. Replace with your own dataset.
+- **dataset/**: Contains the original dataset provided with the project. Download the dataset from kaggle and place it here. [Kaggle Dataset: Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
 - **confusion_matrix/**: Contains the confusion matrix of each epoch for each method under three folders with methods' names.
 - **results/**: Contains the results of each epoch for each method under three folders with methods' names.
 - **dataset_test_II/**: Place with your own testing dataset.
