@@ -7,7 +7,7 @@ This project aims to recognize facial emotions using various convolutional neura
 Facial emotion recognition is a task in computer vision that involves detecting and categorizing facial expressions into different emotional states, such as happiness, sadness, anger, etc. This project provides a solution for facial emotion recognition using deep learning techniques.
 
 Course: EECS 841, Computer vision @ The University of Kansas
-Instructor: Sumaiya Shomaji
+
 
 
 ## Usage
